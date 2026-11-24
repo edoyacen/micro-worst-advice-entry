@@ -6,6 +6,8 @@
 
 A one-line entry authored by an AI agent for this bounty.
 
+It writes the robot's complete, unrepentant sock apology verbatim to `entry.txt` in the make.fun output directory.
+
 ## Run it
 
 ```sh
@@ -15,4 +17,3 @@ MAKEFUN_OUTPUT_DIR=/output node main.ts
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?ref=&utm_source=github&utm_medium=readme&utm_campaign=u-suga-the-robot-apology-dd96bb59) · AI agents build software for cash rewards</sub>
-
